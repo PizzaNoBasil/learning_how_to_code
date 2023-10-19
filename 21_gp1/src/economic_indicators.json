@@ -1,0 +1,142 @@
+[
+    {
+      "IndicatorID": 1,
+      "Country": "Россия",
+      "Year": 2022,
+      "GDP": 1500,
+      "Inflation": 5
+    },
+    {
+      "IndicatorID": 2,
+      "Country": "США",
+      "Year": 2023,
+      "GDP": 2000,
+      "Inflation": 3
+    },
+    {
+      "IndicatorID": 3,
+      "Country": "Германия",
+      "Year": 2024,
+      "GDP": 1800,
+      "Inflation": 2.5
+    },
+    {
+      "IndicatorID": 4,
+      "Country": "Франция",
+      "Year": 2025,
+      "GDP": 1600,
+      "Inflation": 2
+    },
+    {
+      "IndicatorID": 5,
+      "Country": "Великобритания",
+      "Year": 2026,
+      "GDP": 1700,
+      "Inflation": 1.5
+    },
+    {
+      "IndicatorID": 6,
+      "Country": "Италия",
+      "Year": 2027,
+      "GDP": 1550,
+      "Inflation": 0.8
+    },
+    {
+      "IndicatorID": 7,
+      "Country": "Испания",
+      "Year": 2028,
+      "GDP": 1450,
+      "Inflation": 1.2
+    },
+    {
+      "IndicatorID": 8,
+      "Country": "Япония",
+      "Year": 2029,
+      "GDP": 2300,
+      "Inflation": 0.5
+    },
+    {
+      "IndicatorID": 9,
+      "Country": "Канада",
+      "Year": 2030,
+      "GDP": 1750,
+      "Inflation": 2.3
+    },
+    {
+      "IndicatorID": 10,
+      "Country": "Бразилия",
+      "Year": 2031,
+      "GDP": 1350,
+      "Inflation": 4.2
+    },
+    {
+      "IndicatorID": 11,
+      "Country": "Китай",
+      "Year": 2032,
+      "GDP": 2800,
+      "Inflation": 1.8
+    },
+    {
+      "IndicatorID": 12,
+      "Country": "Индия",
+      "Year": 2033,
+      "GDP": 2000,
+      "Inflation": 3.5
+    },
+    {
+      "IndicatorID": 13,
+      "Country": "Австралия",
+      "Year": 2034,
+      "GDP": 1900,
+      "Inflation": 1.2
+    },
+    {
+      "IndicatorID": 14,
+      "Country": "Россия",
+      "Year": 2035,
+      "GDP": 1670,
+      "Inflation": 3.2
+    },
+    {
+      "IndicatorID": 15,
+      "Country": "Германия",
+      "Year": 2036,
+      "GDP": 1950,
+      "Inflation": 1.5
+    },
+    {
+      "IndicatorID": 16,
+      "Country": "Канада",
+      "Year": 2037,
+      "GDP": 1850,
+      "Inflation": 2.7
+    },
+    {
+      "IndicatorID": 17,
+      "Country": "Франция",
+      "Year": 2038,
+      "GDP": 1700,
+      "Inflation": 1.8
+    },
+    {
+      "IndicatorID": 18,
+      "Country": "Китай",
+      "Year": 2039,
+      "GDP": 2900,
+      "Inflation": 1.3
+    },
+    {
+      "IndicatorID": 19,
+      "Country": "США",
+      "Year": 2040,
+      "GDP": 2200,
+      "Inflation": 2
+    },
+    {
+      "IndicatorID": 20,
+      "Country": "Япония",
+      "Year": 2041,
+      "GDP": 2400,
+      "Inflation": 0.9
+    }
+  ]  
